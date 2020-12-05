@@ -18,6 +18,9 @@ E.g.
 The sum of the first three numbers in the top row for all grid.
 The sum for each of the 50 puzzles
 
+# Youtube link
+https://youtu.be/zbVJovxCABc
+
 
 # Authors
 
