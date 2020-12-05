@@ -1,3 +1,30 @@
+# About the program
+The program is using node.js to run the program. The way is to firstly read all line from "sudoku.txt". Secondly, put the string into integer array followed by the sudoku node module. Thirdly, calcaulte the required answer.
+
+Step 1. Install sudoku module by
+```
+yarn add sudoku
+```
+
+Step 2. In this root directory, run the program by 
+```
+node main.js
+```
+
+Step 3. the program is done and "result.txt" will be generated. The "result.txt" will contain all 50 answers of the sudoku.txt.
+
+Step 4. The program will also calculate the step 2 and step 3.
+E.g. 
+The sum of the first three numbers in the top row for all grid.
+The sum for each of the 50 puzzles
+
+
+# Authors
+
+* **Ken Lai** - [Ken LAI](https://github.com/chifailai2)
+
+
+
 # Software Engineer pre-interview question
 
 Please [fork][forkFromGithub] this repository to your own GitHub accounts. You can create one using this [link][createAccount].
